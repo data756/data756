@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @data756
-- 👀 I’m interested in learning new technologies like ML , AI and Automation 
-- 🌱 I’m currently learning  Automation 
+- 🌱 I’m currently working as QA Engineer. 
 - 📫 How to reach me ...bhavya.mandaliya21@gmail.com
 
 <!---
